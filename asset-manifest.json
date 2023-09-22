@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/interview-drivehub/static/css/main.c7c9b393.css",
-    "main.js": "/interview-drivehub/static/js/main.b96a44ca.js",
+    "main.js": "/interview-drivehub/static/js/main.ab2febc5.js",
     "static/js/496.42dedfbd.chunk.js": "/interview-drivehub/static/js/496.42dedfbd.chunk.js",
     "index.html": "/interview-drivehub/index.html",
     "main.c7c9b393.css.map": "/interview-drivehub/static/css/main.c7c9b393.css.map",
-    "main.b96a44ca.js.map": "/interview-drivehub/static/js/main.b96a44ca.js.map",
+    "main.ab2febc5.js.map": "/interview-drivehub/static/js/main.ab2febc5.js.map",
     "496.42dedfbd.chunk.js.map": "/interview-drivehub/static/js/496.42dedfbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c9b393.css",
-    "static/js/main.b96a44ca.js"
+    "static/js/main.ab2febc5.js"
   ]
 }
