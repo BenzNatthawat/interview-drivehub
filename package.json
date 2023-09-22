@@ -28,6 +28,7 @@
       "typescript": "^5"
     }
   },
+  "homepage": "http://benznatthawat.github.io/interview-drivehub",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

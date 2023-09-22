@@ -14,7 +14,7 @@ type Props = {
 
 const handleImageError = (e: any) => {
   e.target.onerror = null;
-  e.target.src = "/no-image.png";
+  e.target.src = "/interview-drivehub/no-image.png";
 };
 
 export default function MediaCard({ item, handleAddCart }: Props): JSX.Element {
@@ -23,7 +23,7 @@ export default function MediaCard({ item, handleAddCart }: Props): JSX.Element {
       <CardMedia
         component="img"
         sx={{ height: 185 }}
-        image={item?.fields?.photo || "/no-image.jpg"}
+        image={item?.fields?.photo || "/interview-drivehub/no-image.png"}
         title="green iguana"
         onError={handleImageError}
       />

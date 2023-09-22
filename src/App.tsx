@@ -142,11 +142,11 @@ function App(): JSX.Element {
     <div>
       <div className="app-header">
         <div className="flex">
-          <img src="/logo.png" alt="logo" />
+          <img src="/interview-drivehub/logo.png" alt="logo" />
           <span className="self-center">DRIVERHUB</span>
         </div>
         <div onClick={handleOpen} className="flex">
-          <img src="/Shopping.svg" alt="logo" width={38} height={32} />
+          <img src="/interview-drivehub/Shopping.svg" alt="logo" width={38} height={32} />
           <p>Cart ({cart.length})</p>
         </div>
       </div>

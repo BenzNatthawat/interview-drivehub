@@ -37,7 +37,7 @@ export default function CartModal({
 
   const handleImageError = (e: any) => {
     e.target.onerror = null;
-    e.target.src = "/no-image.png";
+    e.target.src = "/interview-drivehub/no-image.png";
   };
 
   return (
